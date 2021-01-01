@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Tariq</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio_text">BioText</string>
+    <string name="bio">Hi, my name is Tariq.
+        \n\nI am a biological student with a graduation in mechanical engineering but now pursuing mobile application development.
+        \nThat sound\'s great right!
+        \nBut i messed up my life and oppurtunities and failed at every step of my life , the typical word to describe me is a "Loser".
+        \nIts totally because of my unawareness and childishness.
+        \n\nThe loser finally landed here in application development.
+        \nI dont know whether i will succeed in this career or not.
+        \nBut i will keep trying my best to deliver the best of mine.Insha Allah!
+        \n\n</string>
+    <string name="lock_image">lock</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
